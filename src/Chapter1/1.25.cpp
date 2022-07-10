@@ -1,8 +1,12 @@
 #include <iostream>
+#include "Sales_item.h"
 using namespace std;
 
 int main()
 {
+	cout<<"Hello world!"<<endl;
+
 	system("pause");
-	return -1;// 返回0和-1没有任何区别
+	return 0;
+
 }
