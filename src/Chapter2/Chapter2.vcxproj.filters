@@ -11,7 +11,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2.1.cpp">
+    <ClCompile Include="2.3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
