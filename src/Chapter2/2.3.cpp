@@ -13,6 +13,7 @@ int main()
 	cout << i - u << endl;
 	cout << u - i << endl;
 
+	cout << "Git routine" << endl;
 	system("pause");
 	return 0;
 }
