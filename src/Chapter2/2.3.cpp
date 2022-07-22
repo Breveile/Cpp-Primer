@@ -13,7 +13,7 @@ int main()
 	cout << i - u << endl;
 	cout << u - i << endl;
 
-	cout << "Git routine" << endl;
+	cout << "Who goes with F\145rgus?\102";
 	system("pause");
 	return 0;
 }
